@@ -1,7 +1,7 @@
 # 4EV3R-WeaponAnim
 [FREE] [OX] Weapon Holding Animation
 
-Key Features:,
+Key Features:
 Easy Config,
 Fully Optimized,
 0 ms,
