@@ -3,7 +3,7 @@
 
 ## Key Features:
 
-**Easy Config**
+
 **Enable/Disable anim for specefic Weapons**
 
 **Fully Optimized**
