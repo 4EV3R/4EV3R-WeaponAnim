@@ -4,7 +4,7 @@
 ## Key Features:
 
 
-**Enable/Disable anim for specefic Weapons**
+**Enable/Disable Animation for specific Weapons**
 
 **Fully Optimized**
 
