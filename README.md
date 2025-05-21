@@ -8,7 +8,7 @@
 
 **Fully Optimized**
 
-**0 ms**
+**0 ms when no weapon is being used for 2 hands**
 
 
 
