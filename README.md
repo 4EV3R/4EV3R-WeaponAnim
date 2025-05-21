@@ -1,5 +1,5 @@
 # 4EV3R-WeaponAnim
-[FREE] [OX] Weapon Holding Animation
+New 2.0 Update
 
 ## Key Features:
 
@@ -8,8 +8,7 @@
 
 **Fully Optimized**
 
-**0 ms when no weapon is being used for 2 hands**
-
+**Enable/Disable Holding animation for 2 hands when walking**
 
 
 ![Wapen Anim OX Fivem](https://github.com/user-attachments/assets/bdba1e80-d4cd-437e-892d-f0cd9d5b4954)
